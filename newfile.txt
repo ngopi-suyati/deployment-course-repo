@@ -1,2 +1,2 @@
 This is my simple file
-this is old file.
+this is my new file
